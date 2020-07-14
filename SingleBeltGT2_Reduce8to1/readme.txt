@@ -1,7 +1,7 @@
 Created by Simon Hallam.
 
 Simple 8 to 1 reduction using a GT2 timing belt. Intrinsically close to zero backlash.
-Requires that you print 1 each of the 128T GT2 pulley and the mounting plate, I printed mine in Untimaker Tough PLA.
+Requires that you print 1 each of the 128T GT2 pulley and the motor+motor mounting plate and bearing mount, I printed mine using Ultimaker Tough PLA.
 
 Additional parts:
   1x NEMA 17 motor
